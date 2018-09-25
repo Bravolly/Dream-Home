@@ -1,6 +1,3 @@
-# csc648-fall17-team05
+# Dream Home - Your Future Home is Here
 
-- TODO
-
-- add ALL your team members to your team's repo.
-
+- A website where people can find their next home from reliable agents
