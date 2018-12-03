@@ -32,3 +32,45 @@ Our team of student software engineers is dedicated to creating a high quality r
 website for our users. Some of our team members have industry experience, but all of us have
 the passion and hard work it takes to make Dream Home the perfect place to find your new
 dream home.
+
+### Homepage
+![alt text](https://github.com/Bravolly/Dream-Home/blob/master/Documents/ScreenShots/Homepage.jpg "Homepage")
+
+![alt text](https://github.com/Bravolly/Dream-Home/blob/master/Documents/ScreenShots/Login.jpg "Login")
+
+![alt text](https://github.com/Bravolly/Dream-Home/blob/master/Documents/ScreenShots/Featured%20Homes.jpg "Featured Homes")
+___
+
+### Register Form
+![alt text](https://github.com/Bravolly/Dream-Home/blob/master/Documents/ScreenShots/Register%20Form.jpg "Register")
+
+![alt text](https://github.com/Bravolly/Dream-Home/blob/master/Documents/ScreenShots/Register%20Form%202.jpg "Register2")
+___
+
+### Search Function & Filtering without Inputs
+![alt text](https://github.com/Bravolly/Dream-Home/blob/master/Documents/ScreenShots/Search%20Results.jpg "Search")
+
+### Search Function & Filtering with Inputs
+![alt text](https://github.com/Bravolly/Dream-Home/blob/master/Documents/ScreenShots/Search%20Results%20Inputs.jpg "Search Inputs")
+___
+
+### Listing
+![alt text](https://github.com/Bravolly/Dream-Home/blob/master/Documents/ScreenShots/Listing%20Page.jpg "Listing")
+
+![alt text](https://github.com/Bravolly/Dream-Home/blob/master/Documents/ScreenShots/Listing%20Page%202.jpg "Listing2")
+___
+
+### Dashboard
+![alt text](https://github.com/Bravolly/Dream-Home/blob/master/Documents/ScreenShots/Dashboard%20Listing.jpg "Dashboard")
+
+![alt text](https://github.com/Bravolly/Dream-Home/blob/master/Documents/ScreenShots/Dashboard%20Messages.jpg "Dashboard2")
+___
+
+### Edit Listing
+![alt text](https://github.com/Bravolly/Dream-Home/blob/master/Documents/ScreenShots/Edit%20Listing.jpg "EditListing")
+
+![alt text](https://github.com/Bravolly/Dream-Home/blob/master/Documents/ScreenShots/Edit%20Listing%202.jpg "EditListing2")
+___
+
+### Team Page
+![alt text](https://github.com/Bravolly/Dream-Home/blob/master/Documents/ScreenShots/Team%20Page.jpg "Team")
